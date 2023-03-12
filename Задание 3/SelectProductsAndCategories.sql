@@ -1,6 +1,6 @@
 USE ProductsDB;
 
-SELECT p.ProductName AS 'Название продукта', COALESCE(c.CategoryName, 'Нету категории') AS 'Название категории'
+SELECT p.ProductName AS 'РќР°Р·РІР°РЅРёРµ РїСЂРѕРґСѓРєС‚Р°', COALESCE(c.CategoryName, 'РќРµС‚Сѓ РєР°С‚РµРіРѕСЂРёРё') AS 'РќР°Р·РІР°РЅРёРµ РєР°С‚РµРіРѕСЂРёРё'
 FROM ProductCategories pc 
 LEFT JOIN Products p ON p.ProductID = pc.ProductID 
 LEFT JOIN Categories c ON pc.CategoryID = c.CategoryID 
