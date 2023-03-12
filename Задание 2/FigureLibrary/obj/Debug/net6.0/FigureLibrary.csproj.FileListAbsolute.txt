@@ -1,0 +1,24 @@
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 1 (2)\FigureLibrary\bin\Debug\net6.0\FigureLibrary.deps.json
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 1 (2)\FigureLibrary\bin\Debug\net6.0\FigureLibrary.dll
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 1 (2)\FigureLibrary\bin\Debug\net6.0\FigureLibrary.pdb
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 1 (2)\FigureLibrary\obj\Debug\net6.0\FigureLibrary.csproj.AssemblyReference.cache
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 1 (2)\FigureLibrary\obj\Debug\net6.0\FigureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 1 (2)\FigureLibrary\obj\Debug\net6.0\FigureLibrary.AssemblyInfoInputs.cache
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 1 (2)\FigureLibrary\obj\Debug\net6.0\FigureLibrary.AssemblyInfo.cs
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 1 (2)\FigureLibrary\obj\Debug\net6.0\FigureLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 1 (2)\FigureLibrary\obj\Debug\net6.0\FigureLibrary.dll
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 1 (2)\FigureLibrary\obj\Debug\net6.0\refint\FigureLibrary.dll
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 1 (2)\FigureLibrary\obj\Debug\net6.0\FigureLibrary.pdb
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 1 (2)\FigureLibrary\obj\Debug\net6.0\ref\FigureLibrary.dll
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 2\FigureLibrary\bin\Debug\net6.0\FigureLibrary.deps.json
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 2\FigureLibrary\bin\Debug\net6.0\FigureLibrary.dll
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 2\FigureLibrary\bin\Debug\net6.0\FigureLibrary.pdb
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 2\FigureLibrary\obj\Debug\net6.0\FigureLibrary.csproj.AssemblyReference.cache
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 2\FigureLibrary\obj\Debug\net6.0\FigureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 2\FigureLibrary\obj\Debug\net6.0\FigureLibrary.AssemblyInfoInputs.cache
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 2\FigureLibrary\obj\Debug\net6.0\FigureLibrary.AssemblyInfo.cs
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 2\FigureLibrary\obj\Debug\net6.0\FigureLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 2\FigureLibrary\obj\Debug\net6.0\FigureLibrary.dll
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 2\FigureLibrary\obj\Debug\net6.0\refint\FigureLibrary.dll
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 2\FigureLibrary\obj\Debug\net6.0\FigureLibrary.pdb
+C:\Users\Николай\Desktop\Stazhirovka_v_MindBox\Стажировка в MindBox\Задание 2\FigureLibrary\obj\Debug\net6.0\ref\FigureLibrary.dll
