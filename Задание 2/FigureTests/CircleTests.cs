@@ -32,7 +32,7 @@
         }
 
         [TestMethod]
-        public void Circle_Type()
+        public void Circle_Get_Name()
         {
             string nameCircle = "Круг";
             Circle circle = new Circle(nameCircle, 75);
@@ -40,7 +40,7 @@
         }
 
         [TestMethod]
-        public void Calculate_GetRadius()
+        public void Calculate_Get_Radius()
         {
             Circle circle = new Circle("Круг", -5);
             Assert.AreEqual(5, circle.Radius);

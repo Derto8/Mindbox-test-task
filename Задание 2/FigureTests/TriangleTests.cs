@@ -38,7 +38,7 @@ namespace FigureTests
             Assert.AreEqual(16.111869, triangle.GetArea());
         }
         [TestMethod]
-        public void Triangle_Type1()
+        public void Triangle_Get_Name1()
         {
             string nameTriangle = "Треугольник";
             Triangle triangle = new Triangle(nameTriangle, 7, 24, 25);
@@ -46,7 +46,7 @@ namespace FigureTests
         }
 
         [TestMethod]
-        public void Triangle_Type2()
+        public void Triangle_Get_Name2()
         {
             string nameTriangle = "Треугольник";
             Triangle triangle = new Triangle(nameTriangle, 3.43, 6.45, 8.43);
